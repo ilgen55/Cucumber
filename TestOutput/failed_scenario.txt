@@ -1,0 +1,2 @@
+file:src/test/resources/features/day25_Background_Parametre/US007_ScenarioOutlineKullanimi.feature:12:13:14
+file:src/test/resources/features/day24_ilkFeature/ilkFeatureFile.feature:8
